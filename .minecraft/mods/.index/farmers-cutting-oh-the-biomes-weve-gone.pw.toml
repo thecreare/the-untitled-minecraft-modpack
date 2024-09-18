@@ -1,0 +1,13 @@
+filename = 'farmers-cutting-oh-the-biomes-weve-gone-1.0.0.jar'
+name = "Farmer's Cutting: Oh The Biomes We've Gone"
+side = 'both'
+
+[download]
+hash = '708b172d540e129e94afaf79df62640241bc4bd2ecc8db686bd47b224f060eee94b2bbd919118cf7a79dd02083ff7863f06051f574a5a682f2a511d27dd8746d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ickBpNUE/versions/iScsd6mS/farmers-cutting-oh-the-biomes-weve-gone-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'ickBpNUE'
+version = 'iScsd6mS'

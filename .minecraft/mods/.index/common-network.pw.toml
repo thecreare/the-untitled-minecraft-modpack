@@ -1,0 +1,13 @@
+filename = 'common-networking-neoforge-1.0.3-1.20.1.jar'
+name = 'Common Network'
+side = 'both'
+
+[download]
+hash = '2a9be88c39ee6b14ad79d73357b82017d18ab29de76bcba7fae0b13817479b880f2a481fc5fda5709f427f6b5bbbde0ea9910257482ebe30400bc1f17e1f2ed0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HIuqnQpi/versions/FfH1ULoW/common-networking-neoforge-1.0.3-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'HIuqnQpi'
+version = 'FfH1ULoW'

@@ -1,0 +1,13 @@
+filename = 'caneswonderfulspidersoverhaul-1.20.1_Patch.jar'
+name = 'Canes Wonderful Spiders'
+side = 'both'
+
+[download]
+hash = '74491f20e57405313b7d40daec6896c53ff15930'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5199740
+project-id = 632211

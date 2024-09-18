@@ -1,0 +1,13 @@
+filename = 'cavernousdelight-1.1.0.jar'
+name = 'Cavernous Delight'
+side = 'both'
+
+[download]
+hash = 'c7988bb84f9235829ea92558d845616758629ce3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5046352
+project-id = 964317
