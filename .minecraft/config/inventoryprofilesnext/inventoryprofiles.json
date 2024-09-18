@@ -1,0 +1,17 @@
+{
+    "ModSettings": {
+        "highlight_foused_items_foreground": false,
+        "highlight_foused_items_bg_color": "#01B60B7F",
+        "enable_auto_refill": {
+            "value": false
+        },
+        "first_run": false
+    },
+    "GuiSettings": {
+        "continuous_crafting_saved_value": false
+    },
+    "AutoRefillSettings": {
+        "tool_damage_threshold": 0,
+        "auto_refill_match_any_food": true
+    }
+}

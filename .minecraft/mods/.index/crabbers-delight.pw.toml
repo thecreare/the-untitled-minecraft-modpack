@@ -1,0 +1,13 @@
+filename = 'CrabbersDelight-1.20.1-1.1.7a.jar'
+name = "Crabber's Delight"
+side = 'both'
+
+[download]
+hash = '91a582f7c4f13201754224a7a0c55a4b68e0d1a2b45c2a17b5e1da343b0a45ae133e17042c365857625582afbe77ceeb475cc9b8c3e2b4efbcdd2db6de718ca7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gBGdVBJy/versions/d5KahnbR/CrabbersDelight-1.20.1-1.1.7a.jar'
+
+[update.modrinth]
+mod-id = 'gBGdVBJy'
+version = 'd5KahnbR'

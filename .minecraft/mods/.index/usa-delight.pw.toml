@@ -1,0 +1,13 @@
+filename = 'usadelight-1.0.2-1.20.1.jar'
+name = 'USA Delight'
+side = 'both'
+
+[download]
+hash = 'a19bc3a1167d5b890836da817905bbd8bcd344c4a45342188f6cf5266e8f7b406339ed0c128614b9e392d6e1e63e4660a906f333ac428507f9243527e34b601a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2gyZJPAv/versions/5aaK3hey/usadelight-1.0.2-1.20.1.jar'
+
+[update.modrinth]
+mod-id = '2gyZJPAv'
+version = '5aaK3hey'

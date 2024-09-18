@@ -1,0 +1,13 @@
+filename = 'scpo-2.2-forge-1.20.1-alpha.jar'
+name = 'SCP: Overtime'
+side = 'both'
+
+[download]
+hash = '8ff16bf44c9075f042913aae42c36e41d076ff7928b2b937c04958bbb3b8461ec49fd842ba07565d1d94b5a1e1a19533941f42c723ee0da9ac6b120ed05992bb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9rFShhmC/versions/EkBEoK4a/scpo-2.2-forge-1.20.1-alpha.jar'
+
+[update.modrinth]
+mod-id = '9rFShhmC'
+version = 'EkBEoK4a'

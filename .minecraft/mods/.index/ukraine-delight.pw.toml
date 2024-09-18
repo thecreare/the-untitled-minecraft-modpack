@@ -1,0 +1,13 @@
+filename = 'ukrainedelight-1.0.1-1.20.1.jar'
+name = 'Ukraine Delight'
+side = 'both'
+
+[download]
+hash = 'dd56621f5cfb7297ddab42db4138541bb0b39bb58f9202697233c8558ec47918c61a039c5138ed7dc8a83063478a92f9e22cf9b595517772968204c7678ac915'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/s1fxbwKf/versions/VZx7HO2Z/ukrainedelight-1.0.1-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 's1fxbwKf'
+version = 'VZx7HO2Z'

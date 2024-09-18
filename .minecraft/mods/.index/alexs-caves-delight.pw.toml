@@ -1,0 +1,13 @@
+filename = 'alexscavesdelight-1.0.14-1.20.1.jar'
+name = "Alex's Caves Delight"
+side = 'both'
+
+[download]
+hash = '5c0670471965c51f0cff8c3ddb9a22a658fed48229b244f709078524b34b92da217edafcb2088b1eed9e01e97641e83fc81089ca92dba2dee7600fac941fdb76'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/c9CEGwyC/versions/GgtquGLj/alexscavesdelight-1.0.14-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'c9CEGwyC'
+version = 'GgtquGLj'

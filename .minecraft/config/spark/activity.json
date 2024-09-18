@@ -1,0 +1,67 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "_creare_",
+      "uniqueId": "6b92afe7-e555-4179-a8e6-9c3c977fc1a4"
+    },
+    "time": 1726431803160,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/8iv3RdRw5Z"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "_creare_",
+      "uniqueId": "6b92afe7-e555-4179-a8e6-9c3c977fc1a4"
+    },
+    "time": 1726431777737,
+    "type": "Heap dump",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\creare\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\.minecraft\\config\\spark\\heap-2024-09-15_16.22.03.hprof"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "_creare_",
+      "uniqueId": "6b92afe7-e555-4179-a8e6-9c3c977fc1a4"
+    },
+    "time": 1726196302092,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/HcRsowo4PT"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "_creare_",
+      "uniqueId": "6b92afe7-e555-4179-a8e6-9c3c977fc1a4"
+    },
+    "time": 1726155535343,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/I0nb7AYCDg"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "_creare_",
+      "uniqueId": "6b92afe7-e555-4179-a8e6-9c3c977fc1a4"
+    },
+    "time": 1726155044304,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/k2FcRfqfv3"
+    }
+  }
+]

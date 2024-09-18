@@ -1,0 +1,13 @@
+filename = 'cavesdelight-1.0.1-1.20.1.jar'
+name = 'Caves Delight'
+side = 'both'
+
+[download]
+hash = '618c251895d572a0db75955fa5ab397468c5f7318741aca5078849bceb5420f33519ea3fa3b936d249ca3cc14a8e6fc34263223014376c49a9028ce08a977653'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ckMiR9Zc/versions/DVoGl27G/cavesdelight-1.0.1-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'ckMiR9Zc'
+version = 'DVoGl27G'

@@ -1,0 +1,13 @@
+filename = 'vintagedelight-0.0.12.jar'
+name = 'Vintage Delight'
+side = 'both'
+
+[download]
+hash = '408fde2aeb474edfcf0da448178f0d1eb295baad7ea333b6f70788fa841e434b185f83161c4f6f80a0d059e92bef31f655e184207bc1faebe11f86e87f0a12ef'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/T7XZLHGD/versions/lIOD2j1L/vintagedelight-0.0.12.jar'
+
+[update.modrinth]
+mod-id = 'T7XZLHGD'
+version = 'lIOD2j1L'

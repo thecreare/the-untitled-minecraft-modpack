@@ -1,0 +1,13 @@
+filename = 'bamboodelight-1.0.3-1.20.1.jar'
+name = 'Bamboo Delight'
+side = 'both'
+
+[download]
+hash = 'a76f1749c3ee4ca5b22932bd233da7a8d66a740a215ac0c15121e94de30824205c149a758e534c0507fe298a8b95e20f44bebecf0723928fcef67ceec705e1bf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CIt53rI0/versions/UCAjKrCB/bamboodelight-1.0.3-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'CIt53rI0'
+version = 'UCAjKrCB'

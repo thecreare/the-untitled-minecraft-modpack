@@ -1,0 +1,13 @@
+filename = 'trade-cycling-forge-1.20.1-1.0.14.jar'
+name = 'Trade Cycling'
+side = 'both'
+
+[download]
+hash = '2c5fd8c08752f8c1411580eb6f0c5a8cd689a3ac7282f7adb9d56c90a68eecbf0139c58fab7e968f03979b63d2e6f178a4c6767dbc7b0115c499bc5ea8532e08'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qpPoAL6m/versions/WgDCAlNH/trade-cycling-forge-1.20.1-1.0.14.jar'
+
+[update.modrinth]
+mod-id = 'qpPoAL6m'
+version = 'WgDCAlNH'

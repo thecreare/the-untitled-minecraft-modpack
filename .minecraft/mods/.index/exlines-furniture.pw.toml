@@ -1,0 +1,13 @@
+filename = 'exlinefurniture-forge-1.20.1-2.7.3.jar'
+name = "Exline's Furniture"
+side = 'both'
+
+[download]
+hash = '6fba0036777efd0039655b2f8b87cee5aa3265e58a4099659ac63e51c466b868026c8d06e9bb1723638332eb0e3311b0e84cf12580e79fb27ace698691ec8e0c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CQ7pGNKT/versions/YxDo2BlX/exlinefurniture-forge-1.20.1-2.7.3.jar'
+
+[update.modrinth]
+mod-id = 'CQ7pGNKT'
+version = 'YxDo2BlX'

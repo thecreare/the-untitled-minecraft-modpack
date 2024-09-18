@@ -1,0 +1,13 @@
+filename = 'AutochefsDelight-1.20.1-Forge-1.0.4.jar'
+name = "Autochef's Delight"
+side = 'both'
+
+[download]
+hash = '81fa997c75fbd524fcbdad6731a99b702de1a66f6c2b25d4df1dd9fc24bb74e696cb4000019a61812d77e59674784b3b1270e203e7e8dc16c4992eceb0278b5c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HY0PMpa3/versions/tk83DjIW/AutochefsDelight-1.20.1-Forge-1.0.4.jar'
+
+[update.modrinth]
+mod-id = 'HY0PMpa3'
+version = 'tk83DjIW'

@@ -1,0 +1,13 @@
+filename = 'berries_and_cherries-1.0.9-hotfix.jar'
+name = 'Berries and Cherries Delight'
+side = 'both'
+
+[download]
+hash = 'c6565c3a81563908969bcf06ee6be7b7e732792d5cec03a904d3bdc4ad7b3f6d9383bcabe47b4da5d45cb92e10deffe36879e5c10766a2ea9adad12358ef9654'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fltEIOux/versions/F8MpiwC9/berries_and_cherries-1.0.9-hotfix.jar'
+
+[update.modrinth]
+mod-id = 'fltEIOux'
+version = 'F8MpiwC9'

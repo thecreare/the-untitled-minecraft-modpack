@@ -1,0 +1,13 @@
+filename = 'BotanyPotsTiers-Forge-1.20.1-6.0.1.jar'
+name = 'Botany Pots Tiers'
+side = 'both'
+
+[download]
+hash = '43e5197fde61e0d746c098f6218f2d23ff0267d959dd1ec2534ee842731323ca67b408112c663309c61402767af16d56b4f2486c986a26c05322fea0088628f0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fvMhZPuf/versions/BImc76bj/BotanyPotsTiers-Forge-1.20.1-6.0.1.jar'
+
+[update.modrinth]
+mod-id = 'fvMhZPuf'
+version = 'BImc76bj'

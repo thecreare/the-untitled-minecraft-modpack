@@ -1,0 +1,13 @@
+filename = 'MOAdecor SCIENCE 1.20.1.jar'
+name = 'MOA DECOR: SCIENCE'
+side = 'both'
+
+[download]
+hash = '4ad9e1bb7b28842c8678fc242b8ed71a1f55bfc8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4731831
+project-id = 701517

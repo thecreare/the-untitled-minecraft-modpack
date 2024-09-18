@@ -1,0 +1,13 @@
+filename = 'barbequesdelight-1.0.3.jar'
+name = "Barbeque's Delight [Forge/NeoForge]"
+side = 'both'
+
+[download]
+hash = 'd688f8c5a69515e3f85d6d5026c48edcaeb0f632cbe1f827b858b2898a551e7a55b04a23d514f34003d4e19ed55c80645099e2279cba1917371d547b498dd229'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rtu7uERF/versions/yOdhTMTI/barbequesdelight-1.0.3.jar'
+
+[update.modrinth]
+mod-id = 'rtu7uERF'
+version = 'yOdhTMTI'

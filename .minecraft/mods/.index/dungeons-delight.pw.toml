@@ -1,0 +1,13 @@
+filename = 'dungeons_delight_gourmet_battles-1.0.2-forge-1.20.1.jar'
+name = "Dungeon's Delight"
+side = 'both'
+
+[download]
+hash = '697466d761c78a2058270457ee9c80912c73c2d32232126f23a7358c867dcca80532ba44b4f6704f8a08aad449c6c25bf435baee3c7eb3d09c03a006c4b1d68d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eHRWO4yg/versions/N33BoiJc/dungeons_delight_gourmet_battles-1.0.2-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'eHRWO4yg'
+version = 'N33BoiJc'

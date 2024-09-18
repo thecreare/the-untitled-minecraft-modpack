@@ -1,0 +1,13 @@
+filename = 'aethercompac-1-20-1.jar'
+name = "Nether's Delight Aether Compac"
+side = 'both'
+
+[download]
+hash = '2fd6efd24532f1b8bd533218716f5620a6109ad5786ec06faf6182715a0e27ab3894a2bdad0badd3eaf4655dc496fcd805148d502889fa1d76e63e127954c050'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Iz9OuLxR/versions/lAxq0Nhr/aethercompac-1-20-1.jar'
+
+[update.modrinth]
+mod-id = 'Iz9OuLxR'
+version = 'lAxq0Nhr'

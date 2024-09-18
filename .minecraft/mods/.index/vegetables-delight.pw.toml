@@ -1,0 +1,13 @@
+filename = 'vegetablesdelight-1.0.5-1.20.1.jar'
+name = 'Vegetables Delight'
+side = 'both'
+
+[download]
+hash = 'a35427f65fdda73247b06694d6978ab4b9c849c705a9de8dd0b5bfc3b8bc5fed638e67ee17db1679857fa1e0faf44cde3437ae19436967d50ef219ce17b69c64'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SsH97KU4/versions/CnJnegOs/vegetablesdelight-1.0.5-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'SsH97KU4'
+version = 'CnJnegOs'

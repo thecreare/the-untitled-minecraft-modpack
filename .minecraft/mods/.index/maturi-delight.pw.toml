@@ -1,0 +1,13 @@
+filename = 'maturidelight-1.20.1-3.0.0.jar'
+name = 'Maturi Delight'
+side = 'both'
+
+[download]
+hash = '3900a52237e08c50a454adf6ee93b872fcc518daecdea6ec5f1c93351eea1b14cd623144bf6152a8f9308bceddc37c81b484d51bf0286929793fb91616a9d797'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/s8FllF1q/versions/wUdVDscr/maturidelight-1.20.1-3.0.0.jar'
+
+[update.modrinth]
+mod-id = 's8FllF1q'
+version = 'wUdVDscr'

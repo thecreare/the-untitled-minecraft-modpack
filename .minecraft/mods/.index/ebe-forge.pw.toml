@@ -1,0 +1,13 @@
+filename = 'EBE-0.5-ALPHA.jar'
+name = 'EnlightenedBlockEntities'
+side = 'client'
+
+[download]
+hash = '677c53ca936718ef082f9c388bc525d633530fa92b582cda1b8c8c26f009a54a08fac3ba4587860080d08986ad06c6cc55e3bd694c517070b9004258ae795877'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ntz4ZX7h/versions/4JXdMNV7/EBE-0.5-ALPHA.jar'
+
+[update.modrinth]
+mod-id = 'ntz4ZX7h'
+version = '4JXdMNV7'

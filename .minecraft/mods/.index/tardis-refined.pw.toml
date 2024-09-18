@@ -1,0 +1,13 @@
+filename = 'forge-tardis_refined-mc1.20.1-v2.0.7.jar'
+name = 'TARDIS Refined'
+side = 'both'
+
+[download]
+hash = '7138794d831797b7bf20eaec7464ec972f36d9168e78312284053ede6975cb20499411116a4657a1a43980e214d6fec56461f60cc984ee4e8704aa91371c585d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nqVt6aES/versions/kfdrLfsa/forge-tardis_refined-mc1.20.1-v2.0.7.jar'
+
+[update.modrinth]
+mod-id = 'nqVt6aES'
+version = 'kfdrLfsa'

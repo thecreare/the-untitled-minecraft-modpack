@@ -1,0 +1,13 @@
+filename = 'StorageDrawers-1.20.1-12.6.4.jar'
+name = 'Storage Drawers'
+side = 'both'
+
+[download]
+hash = '74f680d6c7f91e3836aa5d4a649b52f0a78a1395ecec8e74aa4f54f4fe03a7ab0c74fec71a45e8be3c4f4e161a29429777dd0343a79a6ac90829923da336b251'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/guitPqEi/versions/1ovK7Oxq/StorageDrawers-1.20.1-12.6.4.jar'
+
+[update.modrinth]
+mod-id = 'guitPqEi'
+version = '1ovK7Oxq'

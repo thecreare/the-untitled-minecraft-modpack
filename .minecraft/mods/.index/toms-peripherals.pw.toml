@@ -1,0 +1,13 @@
+filename = 'toms-peripherals-1.20.1-1.2.1.jar'
+name = "Tom's Peripherals"
+side = 'both'
+
+[download]
+hash = 'a50bcca41eb409388a5bc54b63b06cad1a7b22233870471f3af2ffaf7c69acb6e46cc0f7d7d0e93b4e9841c2cf273e2d9003aee85ab4bc91dedcc442af46b489'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ljgxd2P8/versions/GOHrA02I/toms-peripherals-1.20.1-1.2.1.jar'
+
+[update.modrinth]
+mod-id = 'ljgxd2P8'
+version = 'GOHrA02I'

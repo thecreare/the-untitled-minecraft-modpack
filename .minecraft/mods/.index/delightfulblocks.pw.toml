@@ -1,0 +1,13 @@
+filename = 'Delightful Blocks - 1.0.0.jar'
+name = 'Delightful Blocks'
+side = 'client'
+
+[download]
+hash = 'e038cb5937fe5c9107cc80174291356b95e281180cdae530d8a2a93c592aa7fb2d81a30446434dca2e67be73a08097b7e3919391c561fb59072b0847eab26854'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6GArLUEs/versions/O2eXyDzA/Delightful Blocks - 1.0.0.jar'
+
+[update.modrinth]
+mod-id = '6GArLUEs'
+version = 'O2eXyDzA'

@@ -1,0 +1,13 @@
+filename = 'culturaldelights-0.16.1.jar'
+name = 'Cultural Delights'
+side = 'both'
+
+[download]
+hash = 'c0684e5b9987c0ecbc3bc97e0542ef0c85f7e6ec'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5512501
+project-id = 574622

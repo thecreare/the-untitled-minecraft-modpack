@@ -1,0 +1,13 @@
+filename = 'Balmy Food 3.2.5 FORGE 1.20.1.jar'
+name = 'Balmy food'
+side = 'both'
+
+[download]
+hash = '73a97b637563522946a1ed8af43b1cc75477c92cc22c1e21a89bf5205485c10fd11632f75e7fdf2e565afdd03484772dd707e5ecffdf0c4beb4c2aa8daba5784'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nNhvSbCf/versions/zM9XBNVd/Balmy Food 3.2.5 FORGE 1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'nNhvSbCf'
+version = 'zM9XBNVd'

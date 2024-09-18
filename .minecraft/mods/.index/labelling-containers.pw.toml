@@ -1,0 +1,13 @@
+filename = 'labellingcontainers-1.7.1.jar'
+name = 'Labelling Containers'
+side = 'both'
+
+[download]
+hash = 'f6c33f3d91b6d6e6ac64bef20d5645af92eefbf3956a367d0b8d3c1f8bace317e588a7ab3bab6cdaf0735d151632da65ed6aaa26835df0015df950e33fd0a84d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/b2T42hfY/versions/Crh2ifn3/labellingcontainers-1.7.1.jar'
+
+[update.modrinth]
+mod-id = 'b2T42hfY'
+version = 'Crh2ifn3'

@@ -1,0 +1,13 @@
+filename = 'graveyarddelight-1.0.1-1.20.1.jar'
+name = 'Graveyard Delight'
+side = 'both'
+
+[download]
+hash = 'a509696702b12b6c884c560d78e6a69de48a16ae033c7a03f0f1bdd0edbed249f7603f435310eb2bdbb12f284fe8de40b2fe290a7d50c48d4169177d2993b78c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nxNQCzuB/versions/rIv0Phpj/graveyarddelight-1.0.1-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'nxNQCzuB'
+version = 'rIv0Phpj'

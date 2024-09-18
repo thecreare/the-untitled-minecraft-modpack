@@ -1,0 +1,13 @@
+filename = 'kitchenkarrot-1.20.1-0.5.4.jar'
+name = 'Kitchen Karrot'
+side = 'both'
+
+[download]
+hash = 'ce1ada2fbab10931a645d3cd9680840e685c666fc6386506c08ec024d12ce654342238b720928670b13efcc007c3447315baa9d72fe41bd0aa4603dbaa254233'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Xqu7vgqw/versions/vPQZ3otw/kitchenkarrot-1.20.1-0.5.4.jar'
+
+[update.modrinth]
+mod-id = 'Xqu7vgqw'
+version = 'vPQZ3otw'

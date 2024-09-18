@@ -1,0 +1,13 @@
+filename = 'MOAdecor ART 1.20.1.jar'
+name = 'MOA DECOR: ART'
+side = 'both'
+
+[download]
+hash = '7366648d7c9e78eb3823b692293dea59469dc10f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4731811
+project-id = 701473

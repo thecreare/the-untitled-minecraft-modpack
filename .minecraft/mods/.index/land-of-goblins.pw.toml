@@ -1,0 +1,13 @@
+filename = 'Land_of_Goblins-1.0.2-1.20.1.jar'
+name = 'Land of Goblins'
+side = 'both'
+
+[download]
+hash = 'c5a13da327e6ee7984d95f390f52f2eb7efcc05631df4c15972ebbc7bc47e50a5350877296af2c4bb5e35505de2beb574b2c325adc50a6c4e8beb44af7dc43ff'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XYgKw0vI/versions/w0Ottwkz/Land_of_Goblins-1.0.2-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'XYgKw0vI'
+version = 'w0Ottwkz'

@@ -1,0 +1,13 @@
+filename = 'ToolStats-Forge-1.20.1-16.0.8.jar'
+name = 'Tool Stats'
+side = 'client'
+
+[download]
+hash = 'b15aff786e2846695e672902478cc1dd9dc2782fceff5968c9d02d17a830b091e45be3a8728a44462b94905cfc2ddfdb3718b7324a612adbeb0944c177a47ad3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vuGFx44e/versions/IhpoByPy/ToolStats-Forge-1.20.1-16.0.8.jar'
+
+[update.modrinth]
+mod-id = 'vuGFx44e'
+version = 'IhpoByPy'

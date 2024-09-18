@@ -1,0 +1,13 @@
+filename = 'deepslatetweaks-2.0-1.20.1.jar'
+name = 'Deepslate Tweaks'
+side = 'both'
+
+[download]
+hash = '86098d6370e2801fe73c238792d2e304b1f9e095d9cc5ecc7ce9950ddd789611235d9d83faaab63c488d3effff16d957ab3e0479a634b2b5fb76d43e0d3fbf25'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Jc0FvX5i/versions/SYzPriFe/deepslatetweaks-2.0-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'Jc0FvX5i'
+version = 'SYzPriFe'

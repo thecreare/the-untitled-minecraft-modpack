@@ -1,0 +1,13 @@
+filename = 'adastradelight-1.0.2-1.20.1.jar'
+name = 'Ad Astra Delight'
+side = 'both'
+
+[download]
+hash = '7ba3e230c41e6eb502ae323e03a93989204ff1f09af9b3af513512bd99114954995e2000cae4cafddfd0edfb765cc71183f6714feeb2be9ae399dd41fa2515fd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8gylzbLw/versions/93ZvLm0h/adastradelight-1.0.2-1.20.1.jar'
+
+[update.modrinth]
+mod-id = '8gylzbLw'
+version = '93ZvLm0h'

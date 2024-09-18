@@ -1,0 +1,13 @@
+filename = 'Resource Ghouls V1.8 - Forge 1.20.1.jar'
+name = 'Resource Ghouls'
+side = 'both'
+
+[download]
+hash = '85030adfe9c45b8bc20504777be633154ac57e3b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5690008
+project-id = 1030130

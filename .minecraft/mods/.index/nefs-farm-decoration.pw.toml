@@ -1,0 +1,13 @@
+filename = 'NefsFarmDecoExpGear+v0.5(1.20.1).jar'
+name = "Nef's Farm Decoration & Explorer gear"
+side = 'both'
+
+[download]
+hash = 'f17fdf17432cdcd11ed10a7042d736f0d5f7e105'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5173577
+project-id = 830428

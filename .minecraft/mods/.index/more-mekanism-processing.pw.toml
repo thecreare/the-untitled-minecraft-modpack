@@ -1,0 +1,13 @@
+filename = 'MoreMekanismProcessing-1.20.1-4.0.jar'
+name = 'More Mekanism Processing'
+side = 'both'
+
+[download]
+hash = 'e511e3fc7f4605307b550c9308c4e8db387e5ed994ed4ef5bfc3b466faf68ba139e9627e88c814571e52970c88d48ff12f828e61dcc43a18759861d7a29877e2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fVa04tKz/versions/UAF1pfba/MoreMekanismProcessing-1.20.1-4.0.jar'
+
+[update.modrinth]
+mod-id = 'fVa04tKz'
+version = 'UAF1pfba'

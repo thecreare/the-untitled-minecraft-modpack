@@ -1,0 +1,13 @@
+filename = 'Luminous Tag V1.0 - 1.20.1.jar'
+name = 'Luminous Tag'
+side = 'server'
+
+[download]
+hash = 'bff9bbb220e028bb5822efec56f865d64a1d8606498cdfa2ebee5989d9e6240b200494c21fb28b25112dd2916710ed0a156dccea77b465a6aace026c6f1a9eea'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uX4Rl6YL/versions/Wih0hBJz/Luminous Tag V1.0 - 1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'uX4Rl6YL'
+version = 'Wih0hBJz'
