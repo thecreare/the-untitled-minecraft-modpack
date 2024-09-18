@@ -1,8 +1,12 @@
 .minecraft/logs
 .minecraft/crash-reports
 
-.minecraft/journeymap/
-!.minecraft/journeymap/config/
+.minecraft/journeymap/data
+.minecraft/journeymap/defaultconfig.json
+.minecraft/journeymap/icon
+.minecraft/journeymap/journeymap.log
+.minecraft/journeymap/server
+.minecraft/journeymap/web
 
 .minecraft/.mixin.out
 .minecraft/.qmenu_opened.marker
