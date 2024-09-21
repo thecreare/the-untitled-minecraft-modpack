@@ -5,6 +5,9 @@
         "enable_auto_refill": {
             "value": false
         },
+        "add_interval_between_clicks": {
+            "value": true
+        },
         "first_run": false
     },
     "GuiSettings": {
