@@ -1,0 +1,13 @@
+filename = 'readyplayerfun-1.20.1-2.8.1.0-FORGE.jar'
+name = 'Ready Player Fun'
+side = 'server'
+
+[download]
+hash = 'b2e08cc07c96950ffe42aa3bf1ce6e5ac46c0b02fe64ebb95d8464c83ebfa26556af76d300d971f1b4a01ac169b166cd5853616980859388b03c98d00ca63280'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AwiAYDUq/versions/8cHvHAU6/readyplayerfun-1.20.1-2.8.1.0-FORGE.jar'
+
+[update.modrinth]
+mod-id = 'AwiAYDUq'
+version = '8cHvHAU6'
