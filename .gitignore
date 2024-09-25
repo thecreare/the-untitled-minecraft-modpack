@@ -62,3 +62,4 @@
 .minecraft/config/sound_physics_remastered/occlusion.properties
 .minecraft/config/sound_physics_remastered/reflectivity.properties
 .minecraft/config/voicechat/username-cache.json
+instance.cfg
