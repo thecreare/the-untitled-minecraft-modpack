@@ -1,13 +1,16 @@
-filename = 'vivecraft-1.20.1-1.1.12-forge.jar'
+filename = 'vivecraft-1.20.1-1.2.0-forge.jar'
 name = 'Vivecraft'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'a624c0dd90d8f5fff569eda988fad763e93be97789d6d5b8e45ec3fec969262782723ac5c933e084b655b87421503590d13234b6d78fe426e57738536336c885'
+hash = 'ecb9255437cdaa2bb3e42c2f987d5a6db6d5bf1c8a466c1c1ab6d9ce8a15390876a18e5fcd78a1b887485757f07cfc7be27ec223a1bb6e347bfe7a0f04b1033e'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/wGoQDPN5/versions/4TJcgnyh/vivecraft-1.20.1-1.1.12-forge.jar'
+url = 'https://cdn.modrinth.com/data/wGoQDPN5/versions/WZ66ApXb/vivecraft-1.20.1-1.2.0-forge.jar'
 
 [update.modrinth]
 mod-id = 'wGoQDPN5'
-version = '4TJcgnyh'
+version = 'WZ66ApXb'

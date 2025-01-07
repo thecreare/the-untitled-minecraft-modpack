@@ -1,13 +1,16 @@
-filename = 'BotanyTrees-Forge-1.20.1-9.0.15.jar'
-name = 'Botany Trees'
+filename = 'BotanyTrees-Forge-1.20.1-9.0.18.jar'
+name = 'BotanyTrees'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '0432a87b02d3af0338a753882fda031e1826f0274ee501cf99155460a9d47b276ef3af8f8a75a1730ccb0e3379e29e120b0e16207046150e00b8fbeb245c7b0a'
+hash = '6184b419ae1106f78931d74da05b15f3b32884780b2f086b627011d5e1de930eb892fdbc813759bfdd9f53461c9fee02a95ac1875621ea9330eaa32e98083a38'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/mvs7RoIW/versions/13qN4x3Q/BotanyTrees-Forge-1.20.1-9.0.15.jar'
+url = 'https://cdn.modrinth.com/data/mvs7RoIW/versions/udhfB3Ut/BotanyTrees-Forge-1.20.1-9.0.18.jar'
 
 [update.modrinth]
 mod-id = 'mvs7RoIW'
-version = '13qN4x3Q'
+version = 'udhfB3Ut'

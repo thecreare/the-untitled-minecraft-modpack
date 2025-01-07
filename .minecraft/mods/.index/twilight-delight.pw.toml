@@ -1,13 +1,16 @@
-filename = 'twilightdelight-2.0.11.jar'
+filename = 'twilightdelight-2.0.13.jar'
 name = "Twilight's Flavor & Delight"
 side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'b4a86f552720a98ff9f69fe3d04a5956271e27e244a8d0ca2503a03090ae412b1d91bcf8381dd10203bce49532dce46ce52667cf8a737919eca792b31bea512a'
+hash = '27f5d1498ba78d211bc4a90414d4a7fc7973701834e10e9a0456fd5b1cee8a0852de18b0a97bed5bc100f1ad8d609c8385a3b2934d0dd4e2193a0af43eb202e5'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/d6cSefpO/versions/aIcJkUxQ/twilightdelight-2.0.11.jar'
+url = 'https://cdn.modrinth.com/data/d6cSefpO/versions/IeOQ4NqA/twilightdelight-2.0.13.jar'
 
 [update.modrinth]
 mod-id = 'd6cSefpO'
-version = 'aIcJkUxQ'
+version = 'IeOQ4NqA'

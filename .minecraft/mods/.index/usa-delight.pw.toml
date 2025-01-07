@@ -1,13 +1,16 @@
-filename = 'usadelight-1.0.2-1.20.1.jar'
+filename = 'usadelight-1.0.3-1.20.1.jar'
 name = 'USA Delight'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'a19bc3a1167d5b890836da817905bbd8bcd344c4a45342188f6cf5266e8f7b406339ed0c128614b9e392d6e1e63e4660a906f333ac428507f9243527e34b601a'
+hash = 'b36572708d27ab7f03fcda8bc836b3721884e9d456737072ee7d796c409b0513be0859708e5902133162a092e89f7b3a297aa2b169af0642c41bbbfe31384c47'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/2gyZJPAv/versions/5aaK3hey/usadelight-1.0.2-1.20.1.jar'
+url = 'https://cdn.modrinth.com/data/2gyZJPAv/versions/gpMKDpO5/usadelight-1.0.3-1.20.1.jar'
 
 [update.modrinth]
 mod-id = '2gyZJPAv'
-version = '5aaK3hey'
+version = 'gpMKDpO5'

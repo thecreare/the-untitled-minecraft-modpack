@@ -1,13 +1,16 @@
-filename = 'BetterAdvancements-NeoForge-1.20.1-0.4.2.10.jar'
+filename = 'BetterAdvancements-NeoForge-1.20.1-0.4.2.25.jar'
 name = 'Better Advancements'
-side = 'client'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'alpha'
 
 [download]
-hash = 'e7979f9951edc3caebeabbe73f782bdfedc03760cea86027251832827566acb01fd4a3ad00ea1277f5b3ad3af348971e6be38cf5064c61d0b4aa538866520a21'
+hash = '2ad7ae925c2e04eaaf17cabae6ffc790f96469f054c6ad0213586b8c880e7dcde9f1983734904bb56b2234598d48455d04914ac4dc80ef4e5220a582833e7517'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Q2OqKxDG/versions/U17TRk9r/BetterAdvancements-NeoForge-1.20.1-0.4.2.10.jar'
+url = 'https://cdn.modrinth.com/data/Q2OqKxDG/versions/NS5G3ENg/BetterAdvancements-NeoForge-1.20.1-0.4.2.25.jar'
 
 [update.modrinth]
 mod-id = 'Q2OqKxDG'
-version = 'U17TRk9r'
+version = 'NS5G3ENg'

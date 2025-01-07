@@ -1,13 +1,16 @@
-filename = 'dungeons_enhanced-1.20.1-5.2.2.jar'
+filename = 'dungeons_enhanced-1.20.1-5.3.0.jar'
 name = 'Dungeons Enhanced'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '72154e3164289c3379c6bac0dd94b3c617b4bdb46299f662412542c4dd43d64edf61885250a28dba5329951a02e814d0ebed84b66bebf9b3d84614cb9fe8d30e'
+hash = 'bfb3d16abda6e500425131be0f05dac2af874771f1f1242dc43130ed22b8f50bcd13779568fce83d7b724c60e5f68a31c8cfb852425435f200b2953c34221898'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/3IAJcJXa/versions/66cAwP4r/dungeons_enhanced-1.20.1-5.2.2.jar'
+url = 'https://cdn.modrinth.com/data/3IAJcJXa/versions/hYZvbbvU/dungeons_enhanced-1.20.1-5.3.0.jar'
 
 [update.modrinth]
 mod-id = '3IAJcJXa'
-version = '66cAwP4r'
+version = 'hYZvbbvU'

@@ -1,13 +1,16 @@
-filename = 'deeperdarkerdelight-1.0.2.1-1.20.1.jar'
-name = 'Deeper and Darker Delight'
+filename = 'deeperdarkerdelight-1.1.2.1-1.20.1.jar'
+name = 'Deeper Darker Delight'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '0b72aecda56b51035a504f8d299c2e4f90049c5253d4db8053915cf88b7009bdbeb414d4827e88f2e078bfb9945a40266812b83b9916b0e0ede6443eb84ea85e'
+hash = '57865ca1c81f6023b3d473840c1bbbd34a758312f150ebb7e904df15087b75e290531dc31d10082d9de532b7f0d7ec02d4ef69bf398c05c99d30380cd3d70f5e'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/8HUMWj1a/versions/IoJ0xGaz/deeperdarkerdelight-1.0.2.1-1.20.1.jar'
+url = 'https://cdn.modrinth.com/data/8HUMWj1a/versions/hjkHTIcS/deeperdarkerdelight-1.1.2.1-1.20.1.jar'
 
 [update.modrinth]
 mod-id = '8HUMWj1a'
-version = 'IoJ0xGaz'
+version = 'hjkHTIcS'

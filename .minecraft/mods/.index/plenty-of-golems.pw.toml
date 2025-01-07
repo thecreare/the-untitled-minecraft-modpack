@@ -1,13 +1,16 @@
-filename = 'Plenty_of_Golems-V1.3.1-Forge_1.20.1.jar'
-name = 'Plenty of Golems'
+filename = 'plenty_of_golems-1.4.1-forge-1.20.1.jar'
+name = 'plenty of golems'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'ed9fe0cae2ed73a65db3ba63b2721f4d337b35f5'
+hash = 'b7919968fef4a0d184f79a3eccfa9c17b848088a'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 4985079
+file-id = 6060150
 project-id = 870470

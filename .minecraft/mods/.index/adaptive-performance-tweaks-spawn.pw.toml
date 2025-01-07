@@ -1,13 +1,16 @@
-filename = 'adaptive_performance_tweaks_spawn_1.20.1-11.1.0.jar'
-name = 'Adaptive Performance Tweaks: Spawn'
+filename = 'adaptive_performance_tweaks_spawn_1.20.1-11.3.0.jar'
+name = 'APTweaks: Spawn'
 side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '027aabd0e5655a7cdda0bf3551bb74ff88abc521'
+hash = 'a933f6adb6e7b614eeff180acb20a64b5777ef41'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5531591
+file-id = 5815121
 project-id = 573708

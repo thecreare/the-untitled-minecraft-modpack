@@ -1,13 +1,16 @@
-filename = 'actuallyharvest-1.20.1-1.1.0.5-FORGE.jar'
-name = 'Actually Harvest'
+filename = 'actuallyharvest-1.20.1-1.1.0.9-FORGE.jar'
+name = 'ActuallyHarvest'
 side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '945d2aa1d963763cb70f001fc3836b650a60370ad44211be09d409798a60a61790526df3135d682ef89806596a1a3f42122186c00a4b85025ff03efa74f77c1f'
+hash = '316547df2fc58aa1f999a28ce05d89668ae2540e9dac95ecdf1a018c19e69039400205a419b09a4063b9df637880acd1fcecd9e54b06bef6db4a2c8475748c09'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/sUbuUC7R/versions/55QBsO5I/actuallyharvest-1.20.1-1.1.0.5-FORGE.jar'
+url = 'https://cdn.modrinth.com/data/sUbuUC7R/versions/CTVOdbqC/actuallyharvest-1.20.1-1.1.0.9-FORGE.jar'
 
 [update.modrinth]
 mod-id = 'sUbuUC7R'
-version = '55QBsO5I'
+version = 'CTVOdbqC'

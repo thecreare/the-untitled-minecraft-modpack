@@ -1,13 +1,16 @@
-filename = 'frightsdelight-forge-1.20.1-1.1.0-beta-1.jar'
+filename = 'frightsdelight-forge-1.20.1-1.2.2.jar'
 name = "Fright's Delight"
 side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'cd2b63f2b131553572d49c68cf23ceaa8313076f140feec08365a9bf946d20077fe3af38cfd5767b06bde6fadbccfa8f6f968ecc9de41f15334f2c143d6554e5'
+hash = '66322254d915c3642847b5e95ba744b4c32cdffa6932533e99e6f4096e85b2a28d25a901440dd2434e1446f9095322c7e1a6e5f011c876ccca2fb7fae9cc8d90'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/awWvXlb2/versions/jzEMljpb/frightsdelight-forge-1.20.1-1.1.0-beta-1.jar'
+url = 'https://cdn.modrinth.com/data/awWvXlb2/versions/ulcBj6FX/frightsdelight-forge-1.20.1-1.2.2.jar'
 
 [update.modrinth]
 mod-id = 'awWvXlb2'
-version = 'jzEMljpb'
+version = 'ulcBj6FX'

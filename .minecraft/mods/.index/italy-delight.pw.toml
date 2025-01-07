@@ -1,13 +1,16 @@
-filename = 'italydelight-1.0.2-1.20.1.jar'
+filename = 'italydelight-1.0.3-1.20.1.jar'
 name = 'Italy Delight'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'a7a1c42f4458f13aa4debf9413c3625a15bb2a1d3a0fbc8f67e4535c8e145fcacb315e54cbb4f97f195c4b3a65a266a6133a99af0f17d2e828023829d32628e3'
+hash = '2628e7c7b1f6923f7a1388c23430d33e3eba91d939b4b1b308bb748fd98c09059e8938dccf1677af8fe7bafd51686f77cb0004e4bc5ed9157b954c19335c653c'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/3rDfn1ja/versions/nryOXMiy/italydelight-1.0.2-1.20.1.jar'
+url = 'https://cdn.modrinth.com/data/3rDfn1ja/versions/JrDZBNfK/italydelight-1.0.3-1.20.1.jar'
 
 [update.modrinth]
 mod-id = '3rDfn1ja'
-version = 'nryOXMiy'
+version = 'JrDZBNfK'

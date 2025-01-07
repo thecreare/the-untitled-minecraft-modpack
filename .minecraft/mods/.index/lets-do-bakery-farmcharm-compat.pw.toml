@@ -1,13 +1,16 @@
-filename = 'letsdo-bakery-forge-2.0.2.jar'
-name = "[Let's Do] Bakery - Farm&Charm Compat"
+filename = 'letsdo-bakery-forge-2.0.3.jar'
+name = "[Let's Do] Bakery"
 side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'e3b0f1edd8fafe4417e99738deb1000516cbb100154b04c87761846a14f6a5250d0f893772551a2734037c50bc6c35020782744b7aaaf3f378bb4327b62c5821'
+hash = '161755954aebfef7318a6f5315b2ddeab0967a3c05e2bf8be35993b0d9692a78e19a0c4a1d40f5ace67dbb03cae8edbf4a258a03e5cf99fa11133f4eb8cb9721'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/oNB5jhlA/versions/pQcOcGKr/letsdo-bakery-forge-2.0.2.jar'
+url = 'https://cdn.modrinth.com/data/oNB5jhlA/versions/JWFLdaGc/letsdo-bakery-forge-2.0.3.jar'
 
 [update.modrinth]
 mod-id = 'oNB5jhlA'
-version = 'pQcOcGKr'
+version = 'JWFLdaGc'

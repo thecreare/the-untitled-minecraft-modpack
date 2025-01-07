@@ -1,13 +1,16 @@
-filename = 'letsdo-addon-compat-forge-1.4.2.jar'
+filename = 'letsdocompat-forge-2.0.0.jar'
 name = "[Let's Do Addon] Compat"
 side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'df149c93d095d788b4f926287b370d3653cabc9aa09d3cf74ec7da3278d044e711a84952005ec1dfdf7c9de0aada6edb70c5b62f4a4dad70fc02525272034726'
+hash = 'b50fa3ff76926ef6dc33b0ef94cc9540e17f23c9c38be2838430d1bc07502764a1eaa11307f38be3cf85e838020fde78acd579290984c4aa006cb8484b804ac1'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/FNi5IMiX/versions/hVjvvLWj/letsdo-addon-compat-forge-1.4.2.jar'
+url = 'https://cdn.modrinth.com/data/FNi5IMiX/versions/4AigeJ15/letsdocompat-forge-2.0.0.jar'
 
 [update.modrinth]
 mod-id = 'FNi5IMiX'
-version = 'hVjvvLWj'
+version = '4AigeJ15'

@@ -1,13 +1,16 @@
-filename = 'BotanyPots-Forge-1.20.1-13.0.38.jar'
-name = 'Botany Pots'
+filename = 'BotanyPots-Forge-1.20.1-13.0.40.jar'
+name = 'BotanyPots'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '642f5e1f80d4eeab38f49e22d7d9f6efc2f33c2287d6e651d2c91ce0f579595be37ebcc3016afb09aa80804808e93deec0c5576576909572b0a61262fd1b94bb'
+hash = 'edce261bc68b18ef98ccb79e95e594b501e25f0dc12221542f7ffbb69804e74532bff4506bd51f050cfd838926a4465ad9dc696e21eefbc84a4546b8e5362d03'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/U6BUTZ7K/versions/rPyXGaKT/BotanyPots-Forge-1.20.1-13.0.38.jar'
+url = 'https://cdn.modrinth.com/data/U6BUTZ7K/versions/ZzWhLV7P/BotanyPots-Forge-1.20.1-13.0.40.jar'
 
 [update.modrinth]
 mod-id = 'U6BUTZ7K'
-version = 'rPyXGaKT'
+version = 'ZzWhLV7P'

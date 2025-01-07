@@ -1,13 +1,16 @@
-filename = 'moredelight-24.09.10-1.20-forge.jar'
-name = "More Delight for Farmer's Delight"
+filename = 'moredelight-24.11.06-1.20-forge.jar'
+name = 'More Delight'
 side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '503c4e1c72b2a19d809f2a33f0fcb3ea29d5c0eea0877f0d0022cf940a8c74724046162641a0427e18520d76f7a46795a548d1bc5fae0dd514e8e456109607b1'
+hash = '931b31bc7e1b55e888e5400f6fbc2d10990583e08e49fb1cc4fb0ade7b1e1601e9914eadf4ced727501b2719f5119284756f58739f9a265eed2da5385955de6a'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/znHQQtuU/versions/jR5ft1qh/moredelight-24.09.10-1.20-forge.jar'
+url = 'https://cdn.modrinth.com/data/znHQQtuU/versions/8uvYZJuQ/moredelight-24.11.06-1.20-forge.jar'
 
 [update.modrinth]
 mod-id = 'znHQQtuU'
-version = 'jR5ft1qh'
+version = '8uvYZJuQ'

@@ -1,13 +1,16 @@
-filename = 'AutochefsDelight-1.20.1-Forge-1.0.4.jar'
+filename = 'AutochefsDelight-1.20.1-Forge-1.0.5.jar'
 name = "Autochef's Delight"
 side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '81fa997c75fbd524fcbdad6731a99b702de1a66f6c2b25d4df1dd9fc24bb74e696cb4000019a61812d77e59674784b3b1270e203e7e8dc16c4992eceb0278b5c'
+hash = 'fcf07f31002893a0b4e2ee808bfea064bb1b719b67215232e04aa4db89707b7e2bd824539fa98d2a63531cf4d3835799eddbadd5005bfeba7b735e3574d8a58e'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/HY0PMpa3/versions/tk83DjIW/AutochefsDelight-1.20.1-Forge-1.0.4.jar'
+url = 'https://cdn.modrinth.com/data/HY0PMpa3/versions/OrJZiFic/AutochefsDelight-1.20.1-Forge-1.0.5.jar'
 
 [update.modrinth]
 mod-id = 'HY0PMpa3'
-version = 'tk83DjIW'
+version = 'OrJZiFic'

@@ -1,13 +1,16 @@
-filename = 'inventorypets-1.20.1-2.1.2.jar'
+filename = 'inventorypets-1.20.1-2.1.3.jar'
 name = 'Inventory Pets'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'ff0df54f9c4deaa29735cf13043ebb3a142bfef7'
+hash = '0949ce403f0743247fad448dddb4fb6b5f4cd8ab'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5414265
+file-id = 5776970
 project-id = 229380

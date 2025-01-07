@@ -1,13 +1,16 @@
-filename = 'seasonal_lets_do-forge-1.0.0.jar'
+filename = 'seasonal_lets_do-forge-1.1.0.jar'
 name = "Seasonal Let's Do"
-side = 'server'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'e053e8c7628cceeac956d5349ca7ffc9305079d43d68f3083629422750b432631f66b22f82953ca1f9919cb73bfe4c0332a14522d02b926ee2596347f4519a78'
+hash = '34049e1efb5fa2998260c29dce6158c9a69aa852914be16a81896d5799eb08c913f5550f00cd12221bc2d5d7e7f1c812a6583241b4d1aa57672673d5a97fd03b'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/yFIPn94r/versions/Rcx8gyPN/seasonal_lets_do-forge-1.0.0.jar'
+url = 'https://cdn.modrinth.com/data/yFIPn94r/versions/pGoun5Ku/seasonal_lets_do-forge-1.1.0.jar'
 
 [update.modrinth]
 mod-id = 'yFIPn94r'
-version = 'Rcx8gyPN'
+version = 'pGoun5Ku'

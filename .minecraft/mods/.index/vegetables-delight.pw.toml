@@ -1,13 +1,16 @@
-filename = 'vegetablesdelight-1.0.5-1.20.1.jar'
+filename = 'vegetablesdelight-1.0.8-1.20.1.jar'
 name = 'Vegetables Delight'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'a35427f65fdda73247b06694d6978ab4b9c849c705a9de8dd0b5bfc3b8bc5fed638e67ee17db1679857fa1e0faf44cde3437ae19436967d50ef219ce17b69c64'
+hash = '150b2a829ad12b689d7a8bdc7b7985ff06f8790e562f7fe983d8337153333f52c3361c1305fe5cdd7e00ce47fb5aa35b8f35b9d7bd945b3267e21c35a0454e91'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/SsH97KU4/versions/CnJnegOs/vegetablesdelight-1.0.5-1.20.1.jar'
+url = 'https://cdn.modrinth.com/data/SsH97KU4/versions/b4QcS3Ch/vegetablesdelight-1.0.8-1.20.1.jar'
 
 [update.modrinth]
 mod-id = 'SsH97KU4'
-version = 'CnJnegOs'
+version = 'b4QcS3Ch'

@@ -1,13 +1,16 @@
-filename = 'Oh-The-Biomes-Weve-Gone-Forge-1.2.2-Beta.jar'
+filename = 'Oh-The-Biomes-Weve-Gone-Forge-1.5.0.jar'
 name = "Oh The Biomes We've Gone"
 side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'dac63bf939bda7b5c22cfdbcea84fa4e20a7afba1f2e90dabea7f480f6dd85c531d5f9ba8aa3b3c51678a5a45fa46c988a0a9045bb2ece2bcbf0c80e4c82c6f7'
+hash = '03e9559e7853c2917c834790a0f92c4aec095e4770a297d721346d7cae64ec92d736b3d81c809ff14cd8d8fd5cac52f77c350c0a96680d466bdc5c1ac51d21c1'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/NTi7d3Xc/versions/ibTmb1OJ/Oh-The-Biomes-Weve-Gone-Forge-1.2.2-Beta.jar'
+url = 'https://cdn.modrinth.com/data/NTi7d3Xc/versions/Y0YNgnEf/Oh-The-Biomes-Weve-Gone-Forge-1.5.0.jar'
 
 [update.modrinth]
 mod-id = 'NTi7d3Xc'
-version = 'ibTmb1OJ'
+version = 'Y0YNgnEf'

@@ -1,13 +1,16 @@
-filename = 'sons-of-sins-1.20.1-2.1.6.jar'
-name = 'Sons of Sins: Wounds of Chaos'
+filename = 'sons-of-sins-1.20.1-2.1.7.jar'
+name = 'Sons of Sins'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '1fc8e2c9f5b5fa6e1fe0b84612b28ec5410d981c6d2c4453adb7270ca6fbd938f978b6c26b4b1993e2c9f575b6e4ae620f2b33fa38e3c417c33de7cc38b6099f'
+hash = 'cbc5a678543963f02b70868d168841b469ce7fc4a8db1463669424314edd7f3ab9f7f2b79cff7702cdaf2f846eda7e8228f983f460803f4b08514bee82db3ce2'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/l7YxzukZ/versions/85MERhDl/sons-of-sins-1.20.1-2.1.6.jar'
+url = 'https://cdn.modrinth.com/data/l7YxzukZ/versions/FQIircnd/sons-of-sins-1.20.1-2.1.7.jar'
 
 [update.modrinth]
 mod-id = 'l7YxzukZ'
-version = '85MERhDl'
+version = 'FQIircnd'

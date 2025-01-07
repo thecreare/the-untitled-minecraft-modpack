@@ -1,13 +1,16 @@
-filename = 'LUMINOUS -V1.4.42 - forge 1.20.1.jar'
-name = 'LUMINOUS'
-side = 'server'
+filename = 'Luminous V1.4.82 - Forge 1.20.1.jar'
+name = 'Luminous'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'd0e7e4169410fc382ddf84b81504021292b1cf7b1623899c83c7c8d22054b68ce60678189234e2fc2511f02c74ee8ae96ef47333cd28192d2c87bc6d1737ea53'
+hash = '746852febef6c1a7e3bbc735ba395264655504870537ac568b0d8fc8be7a9bf4c0792af947c8042a2c65c5909758601b1a83a8f85d5209e26ce703b70a75707a'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/HT2F6lNL/versions/GwdgMxQ2/LUMINOUS -V1.4.42 - forge 1.20.1.jar'
+url = 'https://cdn.modrinth.com/data/HT2F6lNL/versions/WdAx6JQE/Luminous V1.4.82 - Forge 1.20.1.jar'
 
 [update.modrinth]
 mod-id = 'HT2F6lNL'
-version = 'GwdgMxQ2'
+version = 'WdAx6JQE'

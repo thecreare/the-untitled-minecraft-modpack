@@ -1,13 +1,16 @@
-filename = 'BotanyPotsTiers-Forge-1.20.1-6.0.1.jar'
-name = 'Botany Pots Tiers'
+filename = 'BotanyPotsTiers-Forge-1.20.1-6.0.2.jar'
+name = 'BotanyPotsTiers'
 side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '43e5197fde61e0d746c098f6218f2d23ff0267d959dd1ec2534ee842731323ca67b408112c663309c61402767af16d56b4f2486c986a26c05322fea0088628f0'
+hash = '2112ca8da41f1b423aa81e5fa5b46776af1145edc05a2006e0356e94ac55e4bfff2a38797a15842508b8438f3741e67da707b87ab6420b9f85af62f87e4f8cfc'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/fvMhZPuf/versions/BImc76bj/BotanyPotsTiers-Forge-1.20.1-6.0.1.jar'
+url = 'https://cdn.modrinth.com/data/fvMhZPuf/versions/3yo9bQAH/BotanyPotsTiers-Forge-1.20.1-6.0.2.jar'
 
 [update.modrinth]
 mod-id = 'fvMhZPuf'
-version = 'BImc76bj'
+version = '3yo9bQAH'

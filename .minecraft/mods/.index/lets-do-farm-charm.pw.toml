@@ -1,13 +1,16 @@
-filename = 'letsdo-farm_and_charm-forge-1.0.3.jar'
+filename = 'letsdo-farm_and_charm-forge-1.0.4.jar'
 name = "[Let's Do] Farm & Charm"
 side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '1cb996c102205a81164d7ae495dffb8d320cd5a5ace6bad080fc053b8970d0ebb3a31f715f54dd0223e3cb4376f91138a6aef5de035ff602c3cd6449920a528d'
+hash = 'e20ee3240a02d017f511e70b30400b6197400406794d05d5069ce902869f59c0556fc3f21f5cbf3209a83180e708247b22dfb40a73f8f484e5471ed865a80a3d'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/HJetCzWo/versions/ilgMajkC/letsdo-farm_and_charm-forge-1.0.3.jar'
+url = 'https://cdn.modrinth.com/data/HJetCzWo/versions/eOnu9bBE/letsdo-farm_and_charm-forge-1.0.4.jar'
 
 [update.modrinth]
 mod-id = 'HJetCzWo'
-version = 'ilgMajkC'
+version = 'eOnu9bBE'

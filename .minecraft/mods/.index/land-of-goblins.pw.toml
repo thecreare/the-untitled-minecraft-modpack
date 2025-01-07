@@ -1,13 +1,16 @@
-filename = 'Land_of_Goblins-1.0.2-1.20.1.jar'
+filename = 'Land_of_Goblins-1.1.0-1.20.1.jar'
 name = 'Land of Goblins'
 side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'c5a13da327e6ee7984d95f390f52f2eb7efcc05631df4c15972ebbc7bc47e50a5350877296af2c4bb5e35505de2beb574b2c325adc50a6c4e8beb44af7dc43ff'
+hash = '8176cb4f769020a9a2430fa3036fca4c9cc3ebd449fdf8f62e40da20770608861ad84f1e841ee7a2702e9d4ac35a961e9693e1b1f395063dbfbbe551b03ef275'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/XYgKw0vI/versions/w0Ottwkz/Land_of_Goblins-1.0.2-1.20.1.jar'
+url = 'https://cdn.modrinth.com/data/XYgKw0vI/versions/DAtQIHEs/Land_of_Goblins-1.1.0-1.20.1.jar'
 
 [update.modrinth]
 mod-id = 'XYgKw0vI'
-version = 'w0Ottwkz'
+version = 'DAtQIHEs'
