@@ -2,6 +2,13 @@
   "bookGuiScale": 0,
   "clickedVisualize": false,
   "bookData": {
+    "betterend:guidebook": {
+      "viewedEntries": [
+        "betterend:rituals/eternal_ritual"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
     "advancedperipherals:manual": {
       "viewedEntries": [
         "advancedperipherals:peripherals/chat_box"

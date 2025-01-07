@@ -3,7 +3,7 @@
 	#Is dragon flight vertical movement driven by the pitch of the game camera?
 	#This option can be toggled in-game via keybinding for quick switching.
 	#If you choose to disable this, vertical movement can still be achieved via dedicated keybindings.
-	camera_driven_flight = true
+	camera_driven_flight = false
 	#When mounting and dismounting a dragon, should the camera automatically switch third-person perspectives?
 	third_person_on_mount = true
 

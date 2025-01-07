@@ -1,0 +1,464 @@
+
+
+
+
+profile Saved activate HOT2
+	HOT1
+		"mekanism:teleporter_frame"
+	HOT2
+		"mekanism:teleporter"
+	HOT3
+		"mekanism:portable_teleporter"
+	HOT4
+		"ae2:spatial_io_port"
+	HOT5
+		"ae2:spatial_pylon"
+	HOT6
+		"ae2:fluix_glass_cable"
+	HOT7
+		"computercraft:computer_advanced"
+	HOT8
+		"computercraft:pocket_computer_advanced"
+	HOT9
+		"computercraft:wireless_modem_advanced"
+
+profile Saved activate HOT2
+	HOT1
+		"mekanism:teleporter_frame"
+	HOT2
+		"mekanism:teleporter"
+	HOT3
+		"mekanism:portable_teleporter"
+	HOT4
+		"ae2:spatial_io_port"
+	HOT5
+		"ae2:spatial_pylon"
+	HOT6
+		"ae2:fluix_glass_cable"
+	HOT7
+		"computercraft:computer_advanced"
+	HOT8
+		"computercraft:pocket_computer_advanced"
+	HOT9
+		"computercraft:wireless_modem_advanced"
+
+profile Saved activate HOT2
+	HOT1
+		"mekanism:teleporter_frame"
+	HOT2
+		"mekanism:teleporter"
+	HOT3
+		"mekanism:portable_teleporter"
+	HOT4
+		"ae2:spatial_io_port"
+	HOT5
+		"ae2:spatial_pylon"
+	HOT6
+		"ae2:fluix_glass_cable"
+	HOT7
+		"computercraft:computer_advanced"
+	HOT8
+		"computercraft:pocket_computer_advanced"
+	HOT9
+		"computercraft:wireless_modem_advanced"
+
+profile Saved activate HOT2
+	HOT1
+		"mekanism:teleporter_frame"
+	HOT2
+		"mekanism:teleporter"
+	HOT3
+		"mekanism:portable_teleporter"
+	HOT4
+		"ae2:spatial_io_port"
+	HOT5
+		"ae2:spatial_pylon"
+	HOT6
+		"ae2:fluix_glass_cable"
+	HOT7
+		"computercraft:computer_advanced"
+	HOT8
+		"computercraft:pocket_computer_advanced"
+	HOT9
+		"computercraft:wireless_modem_advanced"
+
+profile Saved activate HOT2
+	HOT1
+		"mekanism:teleporter_frame"
+	HOT2
+		"mekanism:teleporter"
+	HOT3
+		"mekanism:portable_teleporter"
+	HOT4
+		"ae2:spatial_io_port"
+	HOT5
+		"ae2:spatial_pylon"
+	HOT6
+		"ae2:fluix_glass_cable"
+	HOT7
+		"computercraft:computer_advanced"
+	HOT8
+		"computercraft:pocket_computer_advanced"
+	HOT9
+		"computercraft:wireless_modem_advanced"
+
+profile Saved activate HOT2
+	HOT1
+		"mekanism:teleporter_frame"
+	HOT2
+		"mekanism:teleporter"
+	HOT3
+		"mekanism:portable_teleporter"
+	HOT4
+		"ae2:spatial_io_port"
+	HOT5
+		"ae2:spatial_pylon"
+	HOT6
+		"ae2:fluix_glass_cable"
+	HOT7
+		"computercraft:computer_advanced"
+	HOT8
+		"computercraft:pocket_computer_advanced"
+	HOT9
+		"computercraft:wireless_modem_advanced"
+
+profile Saved activate HOT2
+	HOT1
+		"mekanism:teleporter_frame"
+	HOT2
+		"mekanism:teleporter"
+	HOT3
+		"mekanism:portable_teleporter"
+	HOT4
+		"ae2:spatial_io_port"
+	HOT5
+		"ae2:spatial_pylon"
+	HOT6
+		"ae2:fluix_glass_cable"
+	HOT7
+		"computercraft:computer_advanced"
+	HOT8
+		"computercraft:pocket_computer_advanced"
+	HOT9
+		"computercraft:wireless_modem_advanced"
+
+profile Saved activate HOT2
+	HOT1
+		"mekanism:teleporter_frame"
+	HOT2
+		"mekanism:teleporter"
+	HOT3
+		"mekanism:portable_teleporter"
+	HOT4
+		"ae2:spatial_io_port"
+	HOT5
+		"ae2:spatial_pylon"
+	HOT6
+		"ae2:fluix_glass_cable"
+	HOT7
+		"computercraft:computer_advanced"
+	HOT8
+		"computercraft:pocket_computer_advanced"
+	HOT9
+		"computercraft:wireless_modem_advanced"
+
+profile Saved activate HOT2
+	HOT1
+		"mekanism:teleporter_frame"
+	HOT2
+		"mekanism:teleporter"
+	HOT3
+		"mekanism:portable_teleporter"
+	HOT4
+		"ae2:spatial_io_port"
+	HOT5
+		"ae2:spatial_pylon"
+	HOT6
+		"ae2:fluix_glass_cable"
+	HOT7
+		"computercraft:computer_advanced"
+	HOT8
+		"computercraft:pocket_computer_advanced"
+	HOT9
+		"computercraft:wireless_modem_advanced"
+
+profile Saved activate HOT2
+	HOT1
+		"mekanism:teleporter_frame"
+	HOT2
+		"mekanism:teleporter"
+	HOT3
+		"mekanism:portable_teleporter"
+	HOT4
+		"ae2:spatial_io_port"
+	HOT5
+		"ae2:spatial_pylon"
+	HOT6
+		"ae2:fluix_glass_cable"
+	HOT7
+		"computercraft:computer_advanced"
+	HOT8
+		"computercraft:pocket_computer_advanced"
+	HOT9
+		"computercraft:wireless_modem_advanced"
+
+profile Saved activate HOT2
+	HOT1
+		"mekanism:teleporter_frame"
+	HOT2
+		"mekanism:teleporter"
+	HOT3
+		"mekanism:portable_teleporter"
+	HOT4
+		"ae2:spatial_io_port"
+	HOT5
+		"ae2:spatial_pylon"
+	HOT6
+		"ae2:fluix_glass_cable"
+	HOT7
+		"computercraft:computer_advanced"
+	HOT8
+		"computercraft:pocket_computer_advanced"
+	HOT9
+		"computercraft:wireless_modem_advanced"
+
+profile Saved activate HOT2
+	HOT1
+		"mekanism:teleporter_frame"
+	HOT2
+		"mekanism:teleporter"
+	HOT3
+		"mekanism:portable_teleporter"
+	HOT4
+		"ae2:spatial_io_port"
+	HOT5
+		"ae2:spatial_pylon"
+	HOT6
+		"ae2:fluix_glass_cable"
+	HOT7
+		"computercraft:computer_advanced"
+	HOT8
+		"computercraft:pocket_computer_advanced"
+	HOT9
+		"computercraft:wireless_modem_advanced"
+
+profile Saved activate HOT2
+	HOT1
+		"mekanism:teleporter_frame"
+	HOT2
+		"mekanism:teleporter"
+	HOT3
+		"mekanism:portable_teleporter"
+	HOT4
+		"ae2:spatial_io_port"
+	HOT5
+		"ae2:spatial_pylon"
+	HOT6
+		"ae2:fluix_glass_cable"
+	HOT7
+		"computercraft:computer_advanced"
+	HOT8
+		"computercraft:pocket_computer_advanced"
+	HOT9
+		"computercraft:wireless_modem_advanced"
+
+profile Saved activate HOT2
+	HOT1
+		"mekanism:teleporter_frame"
+	HOT2
+		"mekanism:teleporter"
+	HOT3
+		"mekanism:portable_teleporter"
+	HOT4
+		"ae2:spatial_io_port"
+	HOT5
+		"ae2:spatial_pylon"
+	HOT6
+		"ae2:fluix_glass_cable"
+	HOT7
+		"computercraft:computer_advanced"
+	HOT8
+		"computercraft:pocket_computer_advanced"
+	HOT9
+		"computercraft:wireless_modem_advanced"
+
+profile Saved activate HOT2
+	HOT1
+		"mekanism:teleporter_frame"
+	HOT2
+		"mekanism:teleporter"
+	HOT3
+		"mekanism:portable_teleporter"
+	HOT4
+		"ae2:spatial_io_port"
+	HOT5
+		"ae2:spatial_pylon"
+	HOT6
+		"ae2:fluix_glass_cable"
+	HOT7
+		"computercraft:computer_advanced"
+	HOT8
+		"computercraft:pocket_computer_advanced"
+	HOT9
+		"computercraft:wireless_modem_advanced"
+
+profile Saved activate HOT2
+	HOT1
+		"mekanism:teleporter_frame"
+	HOT2
+		"mekanism:teleporter"
+	HOT3
+		"mekanism:portable_teleporter"
+	HOT4
+		"ae2:spatial_io_port"
+	HOT5
+		"ae2:spatial_pylon"
+	HOT6
+		"ae2:fluix_glass_cable"
+	HOT7
+		"computercraft:computer_advanced"
+	HOT8
+		"computercraft:pocket_computer_advanced"
+	HOT9
+		"computercraft:wireless_modem_advanced"
+
+profile Saved activate HOT2
+	HOT1
+		"mekanism:teleporter_frame"
+	HOT2
+		"mekanism:teleporter"
+	HOT3
+		"mekanism:portable_teleporter"
+	HOT4
+		"ae2:spatial_io_port"
+	HOT5
+		"ae2:spatial_pylon"
+	HOT6
+		"ae2:fluix_glass_cable"
+	HOT7
+		"computercraft:computer_advanced"
+	HOT8
+		"computercraft:pocket_computer_advanced"
+	HOT9
+		"computercraft:wireless_modem_advanced"
+
+profile Saved activate HOT2
+	HOT1
+		"mekanism:teleporter_frame"
+	HOT2
+		"mekanism:teleporter"
+	HOT3
+		"mekanism:portable_teleporter"
+	HOT4
+		"ae2:spatial_io_port"
+	HOT5
+		"ae2:spatial_pylon"
+	HOT6
+		"ae2:fluix_glass_cable"
+	HOT7
+		"computercraft:computer_advanced"
+	HOT8
+		"computercraft:pocket_computer_advanced"
+	HOT9
+		"computercraft:wireless_modem_advanced"
+
+profile Saved activate HOT2
+	HOT1
+		"mekanism:teleporter_frame"
+	HOT2
+		"mekanism:teleporter"
+	HOT3
+		"mekanism:portable_teleporter"
+	HOT4
+		"ae2:spatial_io_port"
+	HOT5
+		"ae2:spatial_pylon"
+	HOT6
+		"ae2:fluix_glass_cable"
+	HOT7
+		"computercraft:computer_advanced"
+	HOT8
+		"computercraft:pocket_computer_advanced"
+	HOT9
+		"computercraft:wireless_modem_advanced"
+
+profile Saved activate HOT2
+	HOT1
+		"mekanism:teleporter_frame"
+	HOT2
+		"mekanism:teleporter"
+	HOT3
+		"mekanism:portable_teleporter"
+	HOT4
+		"ae2:spatial_io_port"
+	HOT5
+		"ae2:spatial_pylon"
+	HOT6
+		"ae2:fluix_glass_cable"
+	HOT7
+		"computercraft:computer_advanced"
+	HOT8
+		"computercraft:pocket_computer_advanced"
+	HOT9
+		"computercraft:wireless_modem_advanced"
+
+profile Saved activate HOT2
+	HOT1
+		"mekanism:teleporter_frame"
+	HOT2
+		"mekanism:teleporter"
+	HOT3
+		"mekanism:portable_teleporter"
+	HOT4
+		"ae2:spatial_io_port"
+	HOT5
+		"ae2:spatial_pylon"
+	HOT6
+		"ae2:fluix_glass_cable"
+	HOT7
+		"computercraft:computer_advanced"
+	HOT8
+		"computercraft:pocket_computer_advanced"
+	HOT9
+		"computercraft:wireless_modem_advanced"
+
+profile Saved activate HOT2
+	HOT1
+		"mekanism:teleporter_frame"
+	HOT2
+		"mekanism:teleporter"
+	HOT3
+		"mekanism:portable_teleporter"
+	HOT4
+		"ae2:spatial_io_port"
+	HOT5
+		"ae2:spatial_pylon"
+	HOT6
+		"ae2:fluix_glass_cable"
+	HOT7
+		"computercraft:computer_advanced"
+	HOT8
+		"computercraft:pocket_computer_advanced"
+	HOT9
+		"computercraft:wireless_modem_advanced"
+
+profile Saved activate HOT2
+	HOT1
+		"mekanism:teleporter_frame"
+	HOT2
+		"mekanism:teleporter"
+	HOT3
+		"mekanism:portable_teleporter"
+	HOT4
+		"ae2:spatial_io_port"
+	HOT5
+		"ae2:spatial_pylon"
+	HOT6
+		"ae2:fluix_glass_cable"
+	HOT7
+		"computercraft:computer_advanced"
+	HOT8
+		"computercraft:pocket_computer_advanced"
+	HOT9
+		"computercraft:wireless_modem_advanced"
+

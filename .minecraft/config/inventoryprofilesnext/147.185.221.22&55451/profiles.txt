@@ -1,0 +1,64 @@
+
+
+
+
+profile Saved activate HOT9
+	HOT1
+		"mekanism:atomic_disassembler"
+	HOT2
+		"create:wrench"
+	HOT3
+		"thermal:apatite"
+	HOT4
+		"ae2:quartz_stairs"
+	HOT5
+		"ae2:facade"
+	HOT6
+		"ad_astra:small_purple_industrial_lamp"
+	HOT7
+		"rechiseled:chisel"
+	HOT8
+		"sophisticatedbackpacks:diamond_backpack"
+	HOT9
+		"railways:riveted_locometal"
+	OFFHAND
+		"minecraft:shield"
+	HEAD
+		"minecraft:iron_helmet"
+	CHEST
+		"mekanism:jetpack"
+	LEGS
+		"minecraft:iron_leggings"
+	FEET
+		"mekanism:free_runners"
+
+profile Saved activate HOT8
+	HOT1
+		"mekanism:atomic_disassembler"
+	HOT2
+		"create:wrench"
+	HOT3
+		"thermal:apatite"
+	HOT4
+		"ae2:quartz_stairs"
+	HOT5
+		"minecraft:cobblestone"
+	HOT6
+		"ad_astra:small_purple_industrial_lamp"
+	HOT7
+		"mekanism:basic_universal_cable"
+	HOT8
+		"computercraft:pocket_computer_advanced"
+	HOT9
+		"railways:purple_plated_locometal"
+	OFFHAND
+		"minecraft:shield"
+	HEAD
+		"minecraft:iron_helmet"
+	CHEST
+		"mekanism:jetpack"
+	LEGS
+		"minecraft:iron_leggings"
+	FEET
+		"mekanism:free_runners"
+

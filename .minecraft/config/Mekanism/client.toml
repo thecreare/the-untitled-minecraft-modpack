@@ -70,12 +70,12 @@
 		[client.gui.window]
 
 			[client.gui.window.color]
-				x = 2147483647
-				y = 2147483647
+				x = 270
+				y = 29
 
 			[client.gui.window.confirmation]
-				x = 2147483647
-				y = 2147483647
+				x = 18
+				y = 90
 
 			[client.gui.window.crafting0]
 				x = 2147483647
@@ -94,24 +94,24 @@
 				y = 2147483647
 
 			[client.gui.window.rename]
-				x = 2147483647
-				y = 2147483647
+				x = 143
+				y = 39
 
 			[client.gui.window.skinSelect]
-				x = 2147483647
-				y = 2147483647
+				x = 4
+				y = -12
 
 			[client.gui.window.sideConfig]
-				x = 10
-				y = 15
+				x = 127
+				y = 167
 
 			[client.gui.window.transporterConfig]
-				x = 10
-				y = 15
+				x = -201
+				y = 121
 
 			[client.gui.window.upgrade]
-				x = 10
-				y = 15
+				x = 209
+				y = 3
 
 	#QIO Config
 	[client.qio]

@@ -1,0 +1,28 @@
+
+
+
+
+profile Saved activate HOT6
+	HOT1
+		"mekanism:meka_tool"
+	HOT2
+		"mekanism:atomic_disassembler"
+	HOT3
+		"mekanism:portable_teleporter"
+	HOT4
+		"minecraft:diamond_pickaxe" -> "Enchantments" : [{id:"minecraft:silk_touch",lvl:1}]
+	HOT5
+		"sophisticatedbackpacks:diamond_backpack"
+	HOT6
+		"minecraft:stone_bricks"
+	HOT7
+		"sophisticatedbackpacks:diamond_backpack"
+	OFFHAND
+		"minecraft:shield"
+	CHEST
+		"mekanism:jetpack"
+	LEGS
+		"minecraft:diamond_leggings" -> "Enchantments" : [{id:"minecraft:unbreaking",lvl:3},{id:"minecraft:mending",lvl:1}]
+	FEET
+		"mekanism:free_runners"
+

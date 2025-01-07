@@ -688,7 +688,7 @@
     },
     "diameter": 3481750.0
   },
-  "showConstellations": false,
+  "showConstellations": true,
   "showEquatorialGrid": false,
   "showEquator": false,
   "showEcliptic": false,

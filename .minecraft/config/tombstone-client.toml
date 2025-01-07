@@ -40,13 +40,13 @@
 	particle_casting_color = 14937088
 	#Decimal value for the color of the grave text <Death Date> [0..16777215|default:2962496]
 	#Range: 0 ~ 16777215
-	text_color_death_date = 2962496
+	text_color_death_date = 5767423
 	#Decimal value for the color of the grave text <R.I.P.> [0..16777215|default:2962496]
 	#Range: 0 ~ 16777215
-	text_color_rip = 2962496
+	text_color_rip = 10420224
 	#Decimal value for the color of the grave text <Owner Name> [0..16777215|default:5991302]
 	#Range: 0 ~ 16777215
-	text_color_owner = 5991302
+	text_color_owner = 5964031
 	#Decimal value of the fog color [0..16777215|default:125656]
 	#Range: 0 ~ 16777215
 	fog_color = 16777215
@@ -58,10 +58,10 @@
 	fog_period = "NIGHT"
 	#Favorite grave
 	#Allowed Values: GRAVE_SIMPLE, GRAVE_NORMAL, GRAVE_CROSS, TOMBSTONE, SUBARAKI_GRAVE, GRAVE_ORIGINAL
-	favorite_grave = "GRAVE_SIMPLE"
+	favorite_grave = "SUBARAKI_GRAVE"
 	#Favorite grave marble
 	#Allowed Values: DARK, WHITE, BLUE, GREEN, CARMIN
-	favorite_grave_marble = "DARK"
+	favorite_grave_marble = "GREEN"
 	#Defines the rule to use for grave's skin [DEFAULT/FORCE_NORMAL/FORCE_HALLOWEEN|default:DEFAULT]
 	#Allowed Values: DEFAULT, FORCE_NORMAL, FORCE_HALLOWEEN, FORCE_CHRISTMAS
 	grave_skin_rule = "DEFAULT"
@@ -76,7 +76,7 @@
 	marker_type = "WING"
 	#Defines the font to use in Tombstone's screens (only for english, french and spanish languages) [FANTASY/VANILLA|default:FANTASY]
 	#Allowed Values: FANTASY, VANILLA
-	font_rule = "FANTASY"
+	font_rule = "VANILLA"
 	#Display the combinations in item tooltip [false/true|default:true]
 	show_tooltip_combine = true
 	#Prevent night vision from flashing when less than 5 seconds left [false/true|default:true]
