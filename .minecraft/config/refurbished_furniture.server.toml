@@ -28,6 +28,17 @@
 	# Valid range: 1 to 512 (inclusive)
 	maximumNodesInNetwork = 64
 
+	# Cheats for electricity. Free power, etc.
+	[electricity.cheats]
+		# Electricity Generators will now output free power, and stay on forever.
+		# Valid values: true, false
+		freeGeneratorPower = false
+		# Makes all blocks that require electricity always be powered without them being
+		# connected to an Electricity Generator. Warning, some blocks may no longer work as
+		# expected. Use at your own risk of a downgraded experience.
+		# Valid values: true, false
+		everythingIsPowered = false
+
 # Toilet related properties
 [toilet]
 	# If enabled, when interacting with this block it will dispense free water into
@@ -83,6 +94,16 @@
 	# The maximum amount of mailboxes a player is allowed to register/own.
 	# Valid range: 1 to 2147483647 (inclusive)
 	maxMailboxesPerPlayer = 16
+	# A list of dimensions you are allowed to place mailboxes. An empty list means that
+	# mailboxes can be placed in any dimension.
+	# An example of how the list is defined:
+	# allowedDimensions = [
+	#     "minecraft:overworld",
+	#     "minecraft:the_nether",
+	#     ...
+	# ]
+	# ^ Note: This is just an example. Write your list below.
+	allowedDimensions = []
 
 # Kitchen Sink related properties
 [kitchenSink]

@@ -4,4 +4,6 @@
 	control_name_rendering = true
 	#Play idle console animations
 	console_idle_animations = true
+	#Skip fancy rendering (Use on Macs with horrible OpenGL support)
+	disable_fancy_rendering = false
 

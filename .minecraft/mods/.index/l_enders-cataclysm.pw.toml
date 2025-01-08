@@ -1,0 +1,16 @@
+filename = 'L_Enders_Cataclysm-2.33- 1.20.1.jar'
+name = "L_Ender's Cataclysm"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2ad635b750df5cf20de2e7cdbea3fcfa1f2405b83389a98c842c02df60b40d36b9184f188f8dbddcbb62a017dc1490313d06e0fbfd14d0450f5e7aa9f1363299'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/46KJle7n/versions/O9HUqTGE/L_Enders_Cataclysm-2.33- 1.20.1.jar'
+
+[update.modrinth]
+mod-id = '46KJle7n'
+version = 'O9HUqTGE'

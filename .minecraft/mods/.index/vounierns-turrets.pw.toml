@@ -1,0 +1,16 @@
+filename = 'vouniern_turrets-1.20.1-1.0.3.jar'
+name = "Vouniern's Turrets"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dc40c39116c919cd5237730b036ab1056d241096'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5905992
+project-id = 1100085

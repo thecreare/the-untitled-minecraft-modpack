@@ -1,0 +1,16 @@
+filename = 'ingredientsdelight-1.0.3-1.20.1.jar'
+name = 'Ingredients Delight'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd3e82d1936f164e5e4bea0a2bdeffb9e93b78b39'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5994827
+project-id = 1099560

@@ -1,38 +1,42 @@
 
 [WorldGeneration]
-	#Pebble Spawnrate ( 5 is greatest/normal, 0 is disabled )
+	#( 5 is greatest/normal, 0 is disabled )
 	"Pebble Spawnrate" = 5.0
-	#Auburn Tree Spawnrate ( 5 is greatest/normal, 0 is disabled )
+	#( 5 is greatest/normal, 0 is disabled )
 	"Auburn Tree Spawnrate" = 5.0
-	#White Oak Tree Spawnrate ( 5 is greatest/normal, 0 is disabled )
+	# 5 is greatest/normal, 0 is disabled )
 	"White Oak Tree Spawnrate" = 5.0
-	#Palm Tree Spawnrate ( 5 is greatest/normal, 0 is disabled )
+	#( 5 is greatest/normal, 0 is disabled )
 	"Palm Tree Spawnrate" = 5.0
-	#Birch Tree Spawnrate ( 5 is greatest/normal, 0 is disabled )
+	#( 5 is greatest/normal, 0 is disabled )
 	"Birch Tree Spawnrate" = 5.0
-	#Taiga Tree Spawnrate ( 5 is greatest/normal, 0 is disabled )
+	#( 5 is greatest/normal, 0 is disabled )
 	"Tall Taiga Tree Spawnrate" = 5.0
-	#Baobab Tree Spawnrate ( 5 is greatest/normal, 0 is disabled )
+	#( 5 is greatest/normal, 0 is disabled )
 	"Baobab Tree Spawnrate" = 5.0
-	#Determines if the savannah rework is present
+	#(true means enabled, false means disabled)
 	"Savannah Additions" = "true"
+	#(true means enabled, false means disabled)
+	"Snowy Plants Spawn" = "true"
+	#(1 is enabled, 0 is disabled)
+	"Boulder spawns" = 1.0
 
 ["Legendary Beasts"]
-	#TreeEnt Spawn rate (0 is disabled, 1 is normal, 2 is doubled, and 3 is tripled)
+	#(0 is disabled, 1 is normal, 2 is doubled, and 3 is tripled)
 	"Tree Ent Spawnrate" = 1.0
-	#King Hermit Spawn rate (0 is disabled, 1 is normal, 2 is doubled, and 3 is tripled)
+	#(0 is disabled, 1 is normal, 2 is doubled, and 3 is tripled)
 	"King Hermit Spawnrate" = 1.0
-	#Mummy Spawn rate (1 is normal, 2 is doubled, and 3 is tripled)
+	#(0 is disabled, 1 is normal, 2 is doubled, and 3 is tripled)
 	"Mummy Spawnrate" = 1.0
-	#Sea Viper Egg Spawn rate (1 is normal, 2 is doubled, and 3 is tripled)
+	#(0 is disabled, 1 is normal, 2 is doubled, and 3 is tripled)
 	"Sea Viper Egg Spawnrate" = 1.0
-	#Yeti Spawn rate (1 is normal, 2 is doubled, and 3 is tripled)
+	#(0 is disabled, 1 is normal, 2 is doubled, and 3 is tripled)
 	"Yeti Spawnrate" = 1.0
-	#Pheonix Spawn rate (1 is normal, 2 is doubled, and 3 is tripled)
-	"Pheonix Spawnrate" = 1.0
-	#Vile Gator Spawn rate (1 is normal, 2 is doubled, and 3 is tripled)
+	#(0 is disabled, 1 is normal, 2 is doubled, and 3 is tripled)
+	"Pheonix Egg Spawnrate" = 1.0
+	#(0 is disabled, 1 is normal, 2 is doubled, and 3 is tripled)
 	"Gator Spawnrate" = 1.0
-	#Bone Stalker Spawn rate (1 is normal, 2 is doubled, and 3 is tripled)
+	#(0 is disabled, 1 is normal, 2 is doubled, and 3 is tripled)
 	"Bone Stalker Spawnrate" = 1.0
 	#Determines the range of the Totem of Beasts (150 is default)
 	"Totem of Beasts range" = 150.0

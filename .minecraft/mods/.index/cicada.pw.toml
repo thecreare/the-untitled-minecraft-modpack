@@ -1,0 +1,16 @@
+filename = 'cicada-lib-0.10.2+1.20.1.jar'
+name = 'CICADA'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '056832a93f1a12cf69da360bb8b6cc63bf3e7ea9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6013450
+project-id = 989574

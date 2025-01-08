@@ -1,0 +1,16 @@
+
+[seedDropRate]
+	#Seed drop rate settings: 0 turns seed drops off, 1 is the lowest, 3 is the highest, and 2 is default. Anything higher than 3 will default to what 3 is.
+	ryeSeedDropRate = 2.0
+	thymeSeedDropRate = 2.0
+	garlicSeedDropRate = 2.0
+	basilSeedDropRate = 2.0
+	rosemarySeedDropRate = 2.0
+	onionSeedDropRate = 2.0
+	mustardSeedDropRate = 2.0
+	tomatoSeedDropRate = 2.0
+	hotpepperSeedDropRate = 2.0
+	caperSeedDropRate = 2.0
+	wildgreensSeedDropRate = 2.0
+	peanutSeedDropRate = 2.0
+
